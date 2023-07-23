@@ -1,0 +1,7 @@
+PROJET SPIDER
+
+* Jonas Attia       jonas.attia@epita.fr        jonas.attia
+* Alexandre Bao     alexandre.bao@epita.fr      alexandre.bao
+* Marceau Cottrez   marceau.cottrez@epita.fr    marceau.cottrez
+* Luc Nguyen        luc.nguyen@epita.fr         luc.nguyen
+* Camil Ziane       camil.ziane@epita.fr        camil.ziane
